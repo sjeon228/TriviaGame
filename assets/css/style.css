@@ -1,0 +1,22 @@
+.header {
+	text-align: center;
+}
+
+#start{
+	text-align: center;
+}
+
+#questionPage {
+	display: none;
+	text-align: center;
+}
+
+#answerPage {
+	display: none;
+	text-align: center;
+}
+
+#resultPage {
+	display: none;
+	text-align: center;
+}
